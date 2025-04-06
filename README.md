@@ -1,1 +1,3 @@
-hola
+- Compilador: Apple Clang
+- Versión del compilador: 14.0.0 (clang-1400.0.29.202)
+- Versión del lenguaje C que compila: C2x (equivalente a C23)
